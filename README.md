@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <h3 align="center">
   Welcome to David Raba's profile!
@@ -41,10 +41,10 @@ const iddev = {
     
 - ⚡ Fun fact: I love dog for that reason I've five cats 🤣
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=iddevdavidraba&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iddevdavidraba&layout=compact)](https://github.com/iddevdavidraba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsRaba&layout=compact)](https://github.com/DevsRaba/github-readme-stats)
 <p align="center">   
   Visitors<br>
-  <img src="https://profile-counter.glitch.me/iddevdavidraba/count.svg" />  
+  <img src="https://profile-counter.glitch.me/DevsRaba/count.svg" />  
 </p>  
 
 
